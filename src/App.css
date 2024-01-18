@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.SearchForm {
+  margin-bottom: 20px;
+}
+
+.SearchForm input {
+  padding: 8px;
+  font-size: 16px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.SearchForm button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
